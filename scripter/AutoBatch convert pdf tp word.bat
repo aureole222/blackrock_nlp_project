@@ -1,0 +1,9 @@
+SET AUTOBATCHSEQU=C:\Users\lunarhero\AppData\Roaming\Adobe\Acrobat\DC\Sequences\convert pdf tp word.sequ
+SET AUTOBATCHFINAL=0
+SET AUTOBATCHDEST=
+SET AUTOBATCHALTPATH=%1
+SET AUTOBATCHALTOUTPUTPATH=%2
+SET AUTOBATCHNOPROGRESS=no
+SET AUTOBATCHFILEEXT=
+SET AUTOBATCHNOSUBFOLDERS=no
+"C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\Acrobat.exe" /n

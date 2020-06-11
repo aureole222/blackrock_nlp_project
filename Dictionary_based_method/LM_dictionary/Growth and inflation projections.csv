@@ -1,6 +1,6 @@
 ,Entry,sentiment,word_count_positive,word_count_negative,doc_count_positive,doc_count_negative,p percentage word,n percentage word,p percentage document,n percentage document
 88,account,Neutral,14,18.0,12,14.0,0.4375,0.5625,0.46153846153846156,0.5384615384615384
-725,associ,Postive,10,10.0,7,9.0,0.5,0.5,0.4375,0.5625
+725,associ,Positive,10,10.0,7,9.0,0.5,0.5,0.4375,0.5625
 921,bank,Neutral,96,128.0,24,33.0,0.42857142857142855,0.5714285714285714,0.42105263157894735,0.5789473684210527
 1386,budget,Neutral,12,25.0,7,7.0,0.32432432432432434,0.6756756756756757,0.5,0.5
 1431,busi,Neutral,32,38.0,21,21.0,0.45714285714285713,0.5428571428571428,0.5,0.5

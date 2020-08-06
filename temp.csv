@@ -1,0 +1,4 @@
+,all,speech,minutes
+LM_sentiment,0.178,0.14,0.075
+FS_sentiment,-0.028,-0.096,0.188
+base_all_sentiment,0.213,0.109,0.321
